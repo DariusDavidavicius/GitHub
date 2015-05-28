@@ -11,14 +11,14 @@ body {
   
 p {
   margin:0 0 20px;
-  color: green;
+  color: #1e6bb8;
 }
 
 a {
   color: #1e6bb8;
   text-decoration: none; }
   a:hover {
-    text-decoration: underline; }
+    text-decoration: underline;	}
 
 .btn {
   display: inline-block;
